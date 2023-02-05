@@ -1,2 +1,2 @@
-# prime numbers
-Demo for simple calculator.
+# Prime numbers
+Using C programming to find if a number is prime or not!
