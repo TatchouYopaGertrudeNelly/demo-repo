@@ -1,2 +1,2 @@
-# demo-repo
+# prime numbers
 Demo for simple calculator.
